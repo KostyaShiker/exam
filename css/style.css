@@ -1,0 +1,117 @@
+* {
+	margin: 0 auto;
+	/*border:0.1px solid orange;*/
+}
+header {
+	background-image: url("../img/1.png");
+	background-image: no-repeat;
+}
+header{
+	width: 1440px;
+	height: 715px;
+	font-style: normal;
+	font-weight: normal;
+}
+nav{
+	height: 77px;
+}
+.logo-img {
+	margin-left: 135px;
+	margin-top: 5px;
+}
+.logo {
+	margin-left: 135px;
+	margin-top: -23px;
+}
+.nav-list {
+	width: 552px;
+	list-style: none;
+	margin: 0;
+	
+	display: flex;
+	flex-wrap: nowrap;
+	margin-left: 345px;
+	margin-right: 100px; 
+	margin-top: -32px;
+}
+.nav-list a{
+	text-decoration: none;
+	display: block;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 24px;
+	color: #2D2D2D;
+}
+.nav-text{
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 24px;
+	color: #2D2D2D;
+	margin-left: 1076px;
+	margin-top: -24px;
+}
+.button-1 {
+	width: 141px;
+	height:40px;
+	margin-left: 1144px;
+	margin-top: 0px;
+	background: #2D2D2D;
+	color:white;
+	font-size: 16px;
+	border-radius: 20px;
+	padding: 8px 25px;
+	border-color: #2D2D2D;
+}
+.nav-info {
+	margin-top:-49px ;
+	margin-left: 20px;
+}
+.Main{
+	background-color: #F4F7FC;
+	height: 648px;
+}
+.header-text h1{
+	background-color: #F4F7FC;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	line-height: 70px;
+	color: #2D2D2D;
+	margin-left: 135px;
+	padding-top: 165px;
+}
+.header-text p{
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 30px;	
+	color:#000000;
+	margin-left: 135px;
+	margin-top: 20px;
+}
+.header-button button {
+	width: 126,67px;
+	height:40px;
+	margin-left: 135px;
+	margin-top: 30px;
+	background-color:  #2D2D2D;
+	color:white;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 24px;
+	border-radius: 20px;
+	padding: 6px 25px 10px 25px;
+	border-color: #2D2D2D;
+}
+.main-img{
+	margin-left: 735px;
+	margin-top: -410px;
+}
